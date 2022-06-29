@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/prakhillohiya/my-app.git/static/css/main.abd64e84.css",
+    "main.js": "/prakhillohiya/my-app.git/static/js/main.87d17f6e.js",
+    "static/js/787.28cb0dcd.chunk.js": "/prakhillohiya/my-app.git/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/prakhillohiya/my-app.git/index.html",
+    "main.abd64e84.css.map": "/prakhillohiya/my-app.git/static/css/main.abd64e84.css.map",
+    "main.87d17f6e.js.map": "/prakhillohiya/my-app.git/static/js/main.87d17f6e.js.map",
+    "787.28cb0dcd.chunk.js.map": "/prakhillohiya/my-app.git/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.87d17f6e.js"
+  ]
+}
